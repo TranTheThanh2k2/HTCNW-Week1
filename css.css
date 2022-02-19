@@ -1,0 +1,43 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+#wapper{
+	width: 1089px;
+	height: 800px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+#wapper nav{
+	width: 100%;
+	height: 45px;
+	background-color: pink;
+}
+#wapper header{
+	width: 100%;
+	height: 180px;
+	background-color: green;
+}
+#wapper #content {
+	height:	 435px;
+}
+#wapper #content aside{
+	float: left;
+	height: 100%;
+	width: 30%;
+	background-color: red;
+
+}
+#wapper #content section{
+	width: 70%;
+	height: 100%;
+	float: right;
+	background-color: yellow;
+}
+#wapper footer{
+	width: 100%;
+	height: 140px;
+	background-color: blue;
+}
